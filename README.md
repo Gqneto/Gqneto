@@ -1,7 +1,7 @@
 
 ### Olá eu sou o Guilherme Queiroz 👋,sou desenvolvedor mobile.
-### Tecnologias: Kotlin, Android Studio,Gradle,mySQL,SQLlite,Power Apps, Power Automate,SharePoint.
-### Inglês intermediário, estudando francês.
+### Tecnologias: Kotlin,Java, Android Studio,Gradle,mySQL,SQLlite,Power Apps, Power Automate,SharePoint.
+### Inglês intermediário.
 
 ![android](https://github.com/Gqneto/Gqneto/assets/112436409/ed054c6e-9a64-49f9-8544-6b09fce2f745)
 ![kotlin](https://github.com/Gqneto/Gqneto/assets/112436409/0788ffe6-e9d8-4886-abf4-8420f76314ec)
